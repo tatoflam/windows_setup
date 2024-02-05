@@ -59,6 +59,22 @@
 - Install from [Microsoft Store](https://apps.microsoft.com/detail/XP9KHM4BK9FZ7Q?hl=en-US&gl=US)
 - login with github account and sync configuration
 
+### Python
+
+- [python](https://www.python.org/downloads/release/python-3121/)
+  - Download "Windows installer (64-bit)". The file name is `python-3.12.1-amd64.exe`
+
+## Communication tools
+
 ### Slack
 
 - Install from [Microsoft Store](https://apps.microsoft.com/detail/9WZDNCRDK3WP?launch=true&mode=full&hl=ja-jp&gl=jp&ocid=bingwebsearch)
+
+### LINE
+
+- Download from a display mark on [the official site](https://line.me/ja/)
+
+### Google Chat
+
+- [Google Chat スタンドアロンアプリをインストールする](https://support.google.com/chat/answer/9455386?hl=ja)
+  - Need to install [Chrome](https://www.google.com/chrome/) and make it into default browser for switching the google account on PWA(Progressive Web Application)
