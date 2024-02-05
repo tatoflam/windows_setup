@@ -1,4 +1,14 @@
-## Versions
+## Machine
+
+- MINIS FORUM UM690S [amazon](https://www.amazon.co.jp/gp/product/B0BN1HSGRT/) 81994円(税込､2023/11)
+  - AMD Ryzen 9 6900HX (3.3-4.9GHz, 8 Core 16 Thread)
+  - RAM: DDR5-4800 32GB(16*2 Max 32GBx2)
+  - Storage: M.2 2280 1TB PCIe 4.0 SSD (Max 2TB)
+  - HDMI(4K@60Hz)x2, USB4(8K@60Hz)
+  - LAN Port: 2.5Gbps
+  - WiFi 6（802.11ax）
+
+## OS Versions
 
 - Edition: Windows 11 Home
 - Version: 22H2
