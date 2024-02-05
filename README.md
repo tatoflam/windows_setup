@@ -1,3 +1,9 @@
+# Versions
+
+- Edition: Windows 11 Home
+- Version: 22H2
+- OS Build: 22621.2361
+
 # Windows setup
 
 ## Windows Japanese Configuration
